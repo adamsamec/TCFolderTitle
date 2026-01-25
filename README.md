@@ -1,6 +1,6 @@
 # TCFolderTitle
 ## Introduction
-TCFolderTitle is a utility for displaying the names of the folders currently opened in the left and right panels of the Total Commander window. The title is change as long as the utility is running.
+TCFolderTitle is a utility for displaying the names of the folders currently opened in the left and right panels of the Total Commander window in the window title. The title is change as long as the utility is running.
 
 TCFolderTitle is especially useful for screen reader users so they know by reading the window title which folders are currently opened.
 
