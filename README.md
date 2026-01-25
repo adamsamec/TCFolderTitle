@@ -5,7 +5,7 @@ TCFolderTitle is a utility for displaying the names of the folders currently ope
 TCFolderTitle is especially useful for screen reader users so they know by reading the window title which folders are currently opened in Total Commander.
 
 ## Network folders
-If the currently opened folder is located in a network, such as FTP, the text "[net]" is appended to the folder name.
+If the currently opened folder is located in a network, such as FTP, the text "[net]" is appended to the folder name in the window title.
 
 ## Download
 [Download TCFolderTitle installer][Download].
